@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Twelfth Task</string>
+    <string name="image">image</string>
+    <string name="dog">Golden Retrievers trace their history back to Scotland.\n
+        As sporting dogs, Golden Retrievers need lots of exercise.\n
+        They’re a hard-working breed.\n
+        Golden Retrievers make top-notch therapy dogs.\n
+        Past puppyhood, Golden Retrievers often stay young at heart.\n
+        Golden Retrievers love to eat.\n
+        Golden Retrievers are naturally mouthy.\n
+        When carrying objects, they’re known for their soft mouths.\n
+        Goldens shine in event competitions.\n
+        Golden Retrievers are perennially popular pets.</string>
+    <string name="chameleon">Chameleons have eyes in the backs of their heads\n
+        Chameleons come in a lot of different shapes and sizes\n
+        Most chameleons eat on things you would not want to find on your dinner plate\n
+        Chameleons have good eyesight for a lizard\n
+        Chameleons take a while to hatch, and don’t live very long</string>
+    <string name="dinosaur">Dinosaurs are a group of reptiles that have lived on Earth for about 245 million years.\n
+        In 1842, the English naturalist Sir Richard Owen coined the term Dinosauria, derived from the Greek deinos, meaning fearfully great, and sauros, meaning lizard.\n
+        Dinosaur fossils have been found on all seven continents.\n
+        All non-avian dinosaurs went extinct about 66 million years ago.\n
+        There are roughly 700 known species of extinct dinosaurs.\n
+        Modern birds are a kind of dinosaur because they share a common ancestor with non-avian dinosaurs.</string>
+    <string name="snake">They have a very big family\n
+        They are solar-powered and rely fully on external heat or light sources\n
+        Not all snakes lay eggs\n
+        Snakes do not have eyelids\n
+        They smell with their tongues\n
+        Their table manners are different than ours\n
+        Snakes have 5 forms of locomotion</string>
+    <string name="spider">All spiders produce silk\n
+        Karakurt is the most venomous spider in North America. Their venom is about 15 times stronger than rattlesnake venom,
+        and uses a chemical called alpha-latrotoxin to overwhelm nerve cells and cause immense pain.
+        When the alpha-latrotoxin reaches a person’s nerve cell, the nerve dumps all of its signaling chemicals at once,
+        overwhelming its neighbors. In addition to pain, the a bite can cause swelling around the wound, severe cramping, sweating and chills.</string>
+
+</resources>
