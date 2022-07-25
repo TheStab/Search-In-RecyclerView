@@ -12,6 +12,9 @@
     <androidx.appcompat.widget.SearchView
         android:id="@+id/searchViewID"
         app:queryHint="Search"
+        app:iconifiedByDefault="false"
+        app:searchIcon="@drawable/ic_baseline_search_24"
+        android:background="@drawable/search_background"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 

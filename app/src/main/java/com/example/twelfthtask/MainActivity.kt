@@ -21,8 +21,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         searchView = findViewById(R.id.searchViewID)
-
-
         recyclerView = findViewById(R.id.recyclerViewID)
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = LinearLayoutManager(this)
@@ -65,7 +63,7 @@ class MainActivity : AppCompatActivity() {
     private fun filterFun(newText: String?) {
         val filteredList: ArrayList<Animals> = ArrayList()
         for (item in animalsList)
-            if (item.title.lowercase().contains(newText.toString().lowercase()) || item.description.lowercase().contains(newText.toString().lowercase()))
+            if (item.title.lowercase().contains(newText.toString().lowercase()))
                 filteredList.add(item)
         if (filteredList.isEmpty())
             Toast.makeText(this, "No data found", Toast.LENGTH_SHORT).show()
